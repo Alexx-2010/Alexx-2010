@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
-- 😄 Pronouns: -
-- ⚡ Fun fact: -
+- 😄 Pronouns: he
+- ⚡ Fun fact: I started coding with 12
 
 <!---
 Alexx-2010/Alexx-2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
